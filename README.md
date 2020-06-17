@@ -1,8 +1,8 @@
-# flutterapp
+# infinite_scrolling_name_generator
 
-A new Flutter application.
+A flutter application (cross platform for Android and iOS) that generates random words as the user scrolls down.
 
-## Getting Started
+## About
 
 This project is a starting point for a Flutter application.
 
